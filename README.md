@@ -26,11 +26,12 @@ make run
 
 ## Use
 
-The general use is: Copy the content of the file [signature.html](signature.html) and paste it in the signature of your email client.
+The general use is: Copy the content of the file [signature.html](signature.html) and paste it in the signature 
+configuration of your email client.
 
 ### Gmail
 
-Gmail have steps a little special. Here I will show you how to add this signature in Gmail:
+[Gmail](https://gmail.com/) have steps a little special. Here I will show you how to add this signature in Gmail:
 
 1. Open the signature file in a Web Navigator.
 2. Select all the content of the page, (Ctrl + A).
